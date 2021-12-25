@@ -1,0 +1,447 @@
+{
+  "create:its_alive": {
+    "criteria": {
+      "0": "2021-12-25 16:00:50 +0000"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/search/advanced_demagnetization_coil": {
+    "criteria": {
+      "basis": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "itemcollectors:recipes/search/basic_collector": {
+    "criteria": {
+      "ender_pearl": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2021-12-25 13:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2021-12-25 15:04:14 +0000"
+    },
+    "done": true
+  },
+  "silentgear:repair_from_broken": {
+    "criteria": {
+      "repair": "2021-12-25 15:11:50 +0000"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/search/advanced_magnet": {
+    "criteria": {
+      "magnet": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2021-12-25 13:37:35 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "create:electron_tube": {
+    "criteria": {
+      "0": "2021-12-25 16:10:57 +0000"
+    },
+    "done": true
+  },
+  "itemcollectors:recipes/search/advanced_collector": {
+    "criteria": {
+      "basic_collector": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "silentgear:standard_tools": {
+    "criteria": {
+      "pickaxe": "2021-12-25 13:44:16 +0000"
+    },
+    "done": false
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2021-12-25 15:55:04 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2021-12-25 13:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2021-12-25 13:51:39 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2021-12-25 16:00:08 +0000",
+      "1": "2021-12-25 16:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2021-12-25 13:39:26 +0000",
+      "minecraft:bamboo_jungle": "2021-12-25 14:48:44 +0000",
+      "minecraft:beach": "2021-12-25 16:07:11 +0000",
+      "minecraft:dark_forest": "2021-12-25 13:33:26 +0000",
+      "minecraft:sparse_jungle": "2021-12-25 14:49:45 +0000",
+      "minecraft:river": "2021-12-25 13:39:21 +0000",
+      "minecraft:dripstone_caves": "2021-12-25 15:32:59 +0000",
+      "minecraft:forest": "2021-12-25 13:46:01 +0000",
+      "minecraft:lush_caves": "2021-12-25 15:33:01 +0000",
+      "minecraft:jungle": "2021-12-25 14:48:46 +0000",
+      "minecraft:old_growth_birch_forest": "2021-12-25 13:37:27 +0000",
+      "minecraft:savanna": "2021-12-25 14:32:54 +0000",
+      "minecraft:plains": "2021-12-25 13:55:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2021-12-25 13:56:45 +0000"
+    },
+    "done": true
+  },
+  "silentgear:repair_kit": {
+    "criteria": {
+      "crude_repair_kit": "2021-12-25 15:11:41 +0000"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/search/basic_magnet": {
+    "criteria": {
+      "iron": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_acacia_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-12-25 13:40:59 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2021-12-25 13:36:56 +0000",
+      "inv_changed-diamond": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/search/basic_demagnetization_coil": {
+    "criteria": {
+      "iron": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/search/liquid_trash_can": {
+    "criteria": {
+      "bucket": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/quartz_crystal": {
+    "criteria": {
+      "certus": "2021-12-25 15:35:50 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/search/energy_trash_can": {
+    "criteria": {
+      "redstone": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "cantaloupe_seed": "2021-12-25 13:39:11 +0000",
+      "cauliflower_seed": "2021-12-25 13:43:43 +0000",
+      "elderberry_seed": "2021-12-25 14:47:48 +0000",
+      "chile_pepper_seed": "2021-12-25 14:53:21 +0000",
+      "tomatillo_seed": "2021-12-25 13:44:58 +0000",
+      "kale_seed": "2021-12-25 13:57:48 +0000",
+      "blueberry_seed": "2021-12-25 13:38:42 +0000",
+      "soybean_seed": "2021-12-25 13:59:19 +0000",
+      "grape_seed": "2021-12-25 13:38:31 +0000",
+      "celery_seed": "2021-12-25 13:39:48 +0000",
+      "raspberry_seed": "2021-12-25 13:45:02 +0000",
+      "blackberry_seed": "2021-12-25 13:44:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2021-12-25 15:04:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "certus": "2021-12-25 15:16:15 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_dark_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2021-12-25 13:42:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2021-12-25 15:11:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2021-12-25 15:22:14 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2021-12-25 13:42:46 +0000"
+    },
+    "done": false
+  },
+  "corail_woodcutter:recipes/from_crimson_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "chile_pepper_seed": "2021-12-25 14:53:21 +0000",
+      "kale_seed": "2021-12-25 13:57:48 +0000",
+      "soybean_seed": "2021-12-25 13:59:19 +0000"
+    },
+    "done": false
+  },
+  "trashcans:recipes/search/item_trash_can": {
+    "criteria": {
+      "chest": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2021-12-25 13:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2021-12-25 15:04:14 +0000"
+    },
+    "done": false
+  },
+  "corail_woodcutter:recipes/from_spruce_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "sapling": "2021-12-25 13:46:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2021-12-25 13:57:41 +0000",
+      "glow_berries": "2021-12-25 15:33:29 +0000"
+    },
+    "done": false
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "eng": "2021-12-25 14:25:17 +0000"
+    },
+    "done": false
+  },
+  "silentgear:template_board": {
+    "criteria": {
+      "get_item": "2021-12-25 15:11:07 +0000"
+    },
+    "done": true
+  },
+  "create:polished_rose_quartz": {
+    "criteria": {
+      "0": "2021-12-25 16:10:19 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_birch_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "silentgear:kachink1": {
+    "criteria": {
+      "kachink": "2021-12-25 14:25:48 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_warped_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2021-12-25 13:42:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2021-12-25 13:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2021-12-25 15:01:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2021-12-25 13:33:26 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_jungle_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2021-12-25 13:43:25 +0000"
+    },
+    "done": true
+  },
+  "tesseract:recipes/search/tesseract": {
+    "criteria": {
+      "ender_pearl": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "tomatillo_seed": "2021-12-25 13:44:58 +0000",
+      "blackberry_seed": "2021-12-25 13:44:49 +0000",
+      "cantaloupe_seed": "2021-12-25 13:39:11 +0000",
+      "cauliflower_seed": "2021-12-25 13:43:43 +0000",
+      "elderberry_seed": "2021-12-25 14:47:48 +0000",
+      "blueberry_seed": "2021-12-25 13:38:42 +0000",
+      "grape_seed": "2021-12-25 13:38:31 +0000",
+      "celery_seed": "2021-12-25 13:39:48 +0000",
+      "raspberry_seed": "2021-12-25 13:45:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-12-25 13:53:09 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/search/ultimate_trash_can": {
+    "criteria": {
+      "cans": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2021-12-25 13:33:26 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-25 13:36:56 +0000"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2021-12-25 15:01:45 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2865
+}
